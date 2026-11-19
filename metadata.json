@@ -1,0 +1,6 @@
+{
+  "name": "SEMANTIQ — Intelligent Similar Word Detection System",
+  "description": "An intelligent NLP platform that discovers semantic relationships, measures contextual similarity, and reveals how language connects using WordNet, TF-IDF, Static Embeddings, and Sentence Transformers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
